@@ -36,7 +36,7 @@ const App = () => {
 };
 
 const login = (email, password) => {
-  if (email === "hola@desarrolloutil.com" && password === "test")
+  if (email === "luangoag.10@gmail.com" && password === "1234")
     alert("login correcto");
   else alert("login incorrecto");
 };
